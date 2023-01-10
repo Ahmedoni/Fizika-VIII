@@ -1,0 +1,25 @@
+li {
+    display: inline;
+}
+body{
+    background-color:aquamarine ;
+}
+#text{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkcyan;
+    border-color: darkcyan;
+    border-width: 5px;
+    font-size: large;
+}
+button:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+    border-color: darkcyan;
+    border-width: 5px;
+    font-size: large;
+}

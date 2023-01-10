@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: x-large;
+    background-color: darkcyan;
+}
+text{
+    font-size: large;
+}
+#dugme{
+    text-align: left;
+}
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aquamarine;
+    border-color: aquamarine;
+    border-width: 5px;
+    font-size: large;
+}
+button:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkcyan;
+    border-color: aquamarine;
+    border-width: 5px;
+    font-size: large;
+}
